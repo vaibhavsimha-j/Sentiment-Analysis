@@ -54,6 +54,6 @@ If using Google Colab, most of these are pre-installed.
 
 
 ### Author:
-Built by Vaibhav Simha J
+#### Built by Vaibhav Simha J : 
 https://www.linkedin.com/in/vaibhav-simha-j-0b46b5327/ ,
 https://github.com/vaibhavsimha-j
