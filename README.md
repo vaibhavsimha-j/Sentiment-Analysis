@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Airline Tweets Sentiment Analysis using LSTM (TensorFlow) &amp; NLP — deployment-ready code, dataset &amp; insightful visualizations
+US Airline Tweets Sentiment Analysis using LSTM (TensorFlow) &amp; NLP — deployment-ready code, dataset &amp; insightful visualizations
 # 📌 Project Highlights
 
 - Built using **Google Colab** (Python)
@@ -44,15 +44,15 @@ If using Google Colab, most of these are pre-installed.
 2. Make sure the dataset file (`US Airline Tweets.csv`) is in the same directory.
 3. Run the script using any Python environment:
 
-📍 **Option 2:** Run on Google Colab (Recommended)
-	1.	Open Google Colab.
-	2.	Upload the following files:
-	•	sentiment_analysis-vaibhavsimhaj.py
-	•	US Airline Tweets.csv
-	3.	Make sure both files are in the Colab working directory.
-	4.	Run all cells in order.
+📍 Option 2: Run on Google Colab (Recommended)
+1.Open Google Colab.
+2.Upload the following files:
+•sentiment_analysis-vaibhavsimhaj.py
+•US Airline Tweets.csv
+3.Make sure both files are in the Colab working directory.
+4.Run all cells in order.
 
 Author:
 Built by Vaibhav Simha J
-https://www.linkedin.com/in/vaibhav-simha-j-0b46b5327/
+https://www.linkedin.com/in/vaibhav-simha-j-0b46b5327/ ,
 https://github.com/vaibhavsimha-j
