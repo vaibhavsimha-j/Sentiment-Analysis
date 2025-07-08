@@ -45,12 +45,13 @@ If using Google Colab, most of these are pre-installed.
 3. Run the script using any Python environment:
 
 ### 📍 Option 2: Run on Google Colab (Recommended)
-1.Open Google Colab.
-2.Upload the following files:
+1. Open Google Colab.
+2. Upload the following files:
 •sentiment_analysis-vaibhavsimhaj.py
 •US Airline Tweets.csv
-3.Make sure both files are in the Colab working directory.
-4.Run all cells in order.
+3. Make sure both files are in the Colab working directory.
+4. Run all cells in order.
+
 
 Author:
 Built by Vaibhav Simha J
