@@ -17,8 +17,8 @@ US Airline Tweets Sentiment Analysis using LSTM (TensorFlow) &amp; NLP — deplo
 |-----------------------------|----------------------------------------------|
 | `sentiment_analysis-vaibhavsimhaj.py` | Main script containing full code (from data loading to predictions) |
 | `US Airline Tweets.csv`     | Dataset downloaded from [Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) |
-| `Accuracy plot.jpg`         | Plot of model accuracy per epoch             |
-| `Loss plot.jpg`             | Plot of model loss per epoch                 |
+| `Accuracy plot.png`         | Plot of model accuracy per epoch             |
+| `Loss plot.png`             | Plot of model loss per epoch                 |
 
 ---
 
@@ -44,7 +44,7 @@ If using Google Colab, most of these are pre-installed.
 2. Make sure the dataset file (`US Airline Tweets.csv`) is in the same directory.
 3. Run the script using any Python environment:
 
-📍 Option 2: Run on Google Colab (Recommended)
+### 📍 Option 2: Run on Google Colab (Recommended)
 1.Open Google Colab.
 2.Upload the following files:
 •sentiment_analysis-vaibhavsimhaj.py
