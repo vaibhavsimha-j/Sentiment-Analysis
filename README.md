@@ -15,7 +15,7 @@ US Airline Tweets Sentiment Analysis using LSTM (TensorFlow) &amp; NLP — deplo
 
 | File Name                    | Description                                  |
 |-----------------------------|----------------------------------------------|
-| `sentiment_analysis-vaibhavsimhaj.py` | Main script containing full code (from data loading to predictions) |
+| `Sentiment_Analysis_Vaibhav_Simha_J.py` | Main script containing full code (from data loading to predictions) |
 | `US Airline Tweets.csv`     | Dataset downloaded from [Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) |
 | `Accuracy plot.png`         | Plot of model accuracy per epoch             |
 | `Loss plot.png`             | Plot of model loss per epoch                 |
