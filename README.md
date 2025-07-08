@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 US Airline Tweets Sentiment Analysis using LSTM (TensorFlow) &amp; NLP — deployment-ready code, dataset &amp; insightful visualizations
-# 📌 Project Highlights
+## 📌 Project Highlights
 
 - Built using **Google Colab** (Python)
 - LSTM-based deep learning model using **TensorFlow & Keras**
