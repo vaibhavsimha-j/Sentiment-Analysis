@@ -53,7 +53,7 @@ If using Google Colab, most of these are pre-installed.
 4. Run all cells in order.
 
 
-Author:
+### Author:
 Built by Vaibhav Simha J
 https://www.linkedin.com/in/vaibhav-simha-j-0b46b5327/ ,
 https://github.com/vaibhavsimha-j
