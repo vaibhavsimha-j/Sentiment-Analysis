@@ -26,12 +26,9 @@ US Airline Tweets Sentiment Analysis using LSTM (TensorFlow) &amp; NLP — deplo
 
 Make sure you have the following libraries installed:
 - tensorflow
-- keras
 - numpy
 - pandas
 - matplotlib
-- seaborn
-- sklearn
 
 If using Google Colab, most of these are pre-installed.
 
